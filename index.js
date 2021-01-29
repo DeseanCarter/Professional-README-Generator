@@ -19,11 +19,6 @@ inquirer.prompt([
     },
     {
       type: 'input',
-      name: 'table of contents',
-      message: 'Please add your table of contents.',
-    },
-    {
-      type: 'input',
       name: 'installation',
       message: 'How do you install your project?',
     },  
