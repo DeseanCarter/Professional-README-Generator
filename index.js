@@ -28,7 +28,14 @@ inquirer.prompt([
       message: 'Please enter project instructions for usage.',
     },
     {
-      type: 'input',
+        type: 'list',
+        choices:[
+            'CCO 1.0 Universal',
+            'GNU LGPL v3',
+            'MIT',
+            'Apache License, Version 2.0',
+            'Boost'
+        ],
       name: 'license',
       message: 'Please choose the license for your project.',
     },
