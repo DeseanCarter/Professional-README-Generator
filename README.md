@@ -1,6 +1,8 @@
-# superman
+# Professional README Generator
 # Description
-clark kent
+A node.js application that allows a user to create a professional README file from the command line.
+Deployed site:[Portfolio](https://deseancarter.github.io/Professional-README-Generator/)
+![Gif of application in progress](./src/readme-generator.gif)
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -9,15 +11,16 @@ clark kent
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-phonebooth
+npm init. npm install inquirer.
 # Usage
-save world
+Run in command line the answer questions to generate READMME file.
 # License
-undefined
-undefined
+This work is covered under the Licensed under the Apache License, Version 2.0
+Full license information can be found here: [License](https://www.opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Contributing
-friends
+N/A
 # Tests
-do it
+Install and run.
 # Questions
-call
+Email your questions to deseancarter1990@gmail.com
