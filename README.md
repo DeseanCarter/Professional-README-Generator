@@ -1,7 +1,8 @@
 # Professional README Generator
 # Description
 A node.js application that allows a user to create a professional README file from the command line.
-Deployed site:[Portfolio](https://deseancarter.github.io/Professional-README-Generator/)
+# Deployed site:
+ [README](https://deseancarter.github.io/Professional-README-Generator/)
 ![Gif of application in progress](./src/readme-generator.gif)
 # Table of Contents
 * [Installation](#installation)
